@@ -1,1 +1,1 @@
-# PA2
+# COP2073C Module 2 Programming Assignment
