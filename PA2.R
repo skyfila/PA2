@@ -1,3 +1,8 @@
+# PA2
+# Kensea Jordan
+# 5/21/2026
+# Studying vectors, matrices, and arrays
+
 # a. Create two vectors representing the populations for the years 2000 and 2010. Then, use
 # cbind to create a 4x2 population matrix from these two vectors.
 
